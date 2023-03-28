@@ -1,7 +1,7 @@
 <?php
 
 
-namespace anxu\sensitive;
+namespace nickbai\sensitive;
 
 
 class Node
